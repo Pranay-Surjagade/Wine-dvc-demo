@@ -15,4 +15,6 @@ git add .
 
 git commit -m 'first commit'
 
-
+git remote add origin https://github.com/Pranay-Surjagade/Wine-dvc-demo.git
+git branch -M main
+git push origin main
